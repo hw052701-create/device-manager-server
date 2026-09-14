@@ -1,6 +1,0 @@
-flask==3.0.0
-flask-cors==4.0.0
-google-api-python-client==2.101.0
-google-auth-httplib2==0.1.1
-google-auth-oauthlib==1.1.0
-werkzeug==3.0.1
